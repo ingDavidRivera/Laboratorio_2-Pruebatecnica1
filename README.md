@@ -32,7 +32,7 @@ Tu objetivo es construir un sitio web que funcione como tu portafolio personal. 
 
 ## Entrega
 
-Entrega tu portafolio profesional antes de la fecha límite acordada (Marzo 4, 2100). Puedes alojarlo en GitHub Pages o en cualquier otro servicio de alojamiento web.
+Entrega tu portafolio profesional antes de la fecha límite acordada (Marzo 10, 2359). Puedes alojarlo en GitHub Pages o en cualquier otro servicio de alojamiento web.
 
 ¡Buena suerte! 🚀
 
